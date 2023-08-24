@@ -1,7 +1,7 @@
 # Multiply-Disease-Detection
 
 
-![App Screenshot](mmd.jpg)
+![App Screenshot](mdd.jpg)
 
 ## Description
 
