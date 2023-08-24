@@ -13,7 +13,3 @@ Multiply-Disease-Detection is a Streamlit app that utilizes machine learning mod
 - Integration of machine learning models for disease prediction.
 - Interactive visualizations to display prediction results.
 
-## How to Use
-
-1. Clone the repository:
-
